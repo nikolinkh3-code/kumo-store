@@ -6,7 +6,7 @@ const products = [
     "name": "RC High-Speed 4WD Remote Control Drift Car",
     "category": "Cars & RC",
     "cny": 41.2,
-    "weightKg": 1.0,
+    "weightKg": 1,
     "images": [
       "/products/rc-drift-car-1.jpg",
       "/products/rc-drift-car-2.jpg"
@@ -91,7 +91,7 @@ const products = [
     "name": "Alloy Toy Car Container Set",
     "category": "Cars & RC",
     "cny": 21.89,
-    "weightKg": 1.0,
+    "weightKg": 1,
     "images": [
       "/products/alloy-car-container-set-1.jpg"
     ],
@@ -127,7 +127,7 @@ const products = [
     "id": 11,
     "name": "One Piece Theater Luffy Figure",
     "category": "Figures",
-    "cny": 8.0,
+    "cny": 8,
     "weightKg": 0.4,
     "images": [
       "/products/one-piece-theater-figure-1.jpg"
@@ -285,7 +285,7 @@ const products = [
     "id": 24,
     "name": "Musical Duck Slide Track",
     "category": "Toys",
-    "cny": 12.0,
+    "cny": 12,
     "weightKg": 0.6,
     "images": [
       "/products/duck-slide-toy-1.jpg"
@@ -345,7 +345,7 @@ const products = [
     "id": 29,
     "name": "Spider-Man Kids Cutlery Set",
     "category": "Kids",
-    "cny": 17.0,
+    "cny": 17,
     "weightKg": 0.3,
     "images": [
       "/products/spiderman-cutlery-set-1.jpg"
@@ -355,102 +355,6 @@ const products = [
   },
   {
     "id": 30,
-    "name": "Luffy Print Hoodie",
-    "category": "Fashion",
-    "cny": 19.6,
-    "weightKg": 0.6,
-    "images": [
-      "/products/luffy-hoodie-1.jpg"
-    ],
-    "description": "Cozy oversized hoodie with a Luffy print.",
-    "available": false
-  },
-  {
-    "id": 31,
-    "name": "Oversized Basic Hoodie",
-    "category": "Fashion",
-    "cny": 33.0,
-    "weightKg": 0.6,
-    "images": [
-      "/products/basic-hoodie-1.jpg"
-    ],
-    "description": "Heavy, comfy oversized hoodie in many colours.",
-    "available": false
-  },
-  {
-    "id": 32,
-    "name": "3D Printed Jersey T-Shirt",
-    "category": "Fashion",
-    "cny": 9.24,
-    "weightKg": 0.25,
-    "images": [
-      "/products/3d-print-jersey-tshirt-1.jpg"
-    ],
-    "description": "Lightweight sporty jersey-style T-shirt with a 3D print.",
-    "available": false
-  },
-  {
-    "id": 33,
-    "name": "OZUKO Lightweight Backpack",
-    "category": "Bags",
-    "cny": 29.8,
-    "weightKg": 0.7,
-    "images": [
-      "/products/ozuko-backpack-1.jpg"
-    ],
-    "description": "Light and roomy everyday backpack with many pockets.",
-    "available": false
-  },
-  {
-    "id": 34,
-    "name": "Shin-chan Cartoon Shoulder Bag",
-    "category": "Bags",
-    "cny": 7.86,
-    "weightKg": 0.3,
-    "images": [
-      "/products/shinchan-shoulder-bag-1.jpg"
-    ],
-    "description": "Cute canvas shoulder bag with Crayon Shin-chan prints.",
-    "available": false
-  },
-  {
-    "id": 35,
-    "name": "Puffy Heart Laptop Sleeve",
-    "category": "Bags",
-    "cny": 10.5,
-    "weightKg": 0.3,
-    "images": [
-      "/products/puffy-laptop-sleeve-1.jpg"
-    ],
-    "description": "Soft quilted laptop sleeve with a fluffy heart.",
-    "available": false
-  },
-  {
-    "id": 36,
-    "name": "Mario Phone Case (Samsung)",
-    "category": "Phone Cases",
-    "cny": 4.83,
-    "weightKg": 0.1,
-    "images": [
-      "/products/mario-phone-case-1.jpg"
-    ],
-    "description": "Clear phone case with a fun Mario game print.",
-    "available": false
-  },
-  {
-    "id": 37,
-    "name": "Clear Magnetic Samsung Case",
-    "category": "Phone Cases",
-    "cny": 8.8,
-    "weightKg": 0.1,
-    "images": [
-      "/products/magsafe-samsung-case-1.jpg"
-    ],
-    "description": "Clean frosted case with magnetic ring, for Samsung phones.",
-    "available": false
-  },
-  {
-    "id": 38,
     "name": "Ninja Pen Holder",
     "category": "Decor",
     "cny": 2.5,
@@ -462,7 +366,7 @@ const products = [
     "available": false
   },
   {
-    "id": 39,
+    "id": 31,
     "name": "Mini Panda Desk Ornaments",
     "category": "Decor",
     "cny": 2.08,
@@ -474,7 +378,7 @@ const products = [
     "available": false
   },
   {
-    "id": 40,
+    "id": 32,
     "name": "Emirates A380 Model Plane",
     "category": "Decor",
     "cny": 35.8,
