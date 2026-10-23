@@ -11,8 +11,9 @@ const withPrice = (p) => ({
 
 const baseProducts = rawProducts.map(withPrice);
 
-// Google Sheet "Kumo Products" > File > Share > Publish to web > CSV — paste that link here
-export const SHEET_CSV_URL = "";
+// "Kumo Products" Google Sheet, served as CSV by its Apps Script web app (google-apps-script/Code.gs)
+export const SHEET_CSV_URL =
+  "https://script.google.com/macros/s/AKfycbxMDosg5EL5ryG28GfOU5m9vo7AQ8NRMFiw6ww3YBrNMwiqsMxu5R-Z9GNzlkZT7UMO9w/exec";
 
 function parseCSV(text) {
   const rows = [];
